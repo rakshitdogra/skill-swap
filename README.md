@@ -1,4 +1,4 @@
-# 🔄 SkillSwap — Exchange Skills, Not Money
+# SkillSwap
 
 <div align="center">
 
